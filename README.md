@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=Overview_on_Eve&fontSize=50&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=Overview_on_Eve&fontSize=30&fontAlignY=40"/>
 
 * B.A in English Education
 * Worked as Educational Researcher & PM of E-learning contents for an year.
