@@ -20,7 +20,3 @@
 * In the course of Likelion AI school 7<sup>th</sup> ( September 2022 - Now )
 
 <br> 
-
-* 영어교육과 학사 졸 (- 2021.08 )
-* 교육연구원 & 이러닝 컨텐츠 PM으로 1년간 근무 ( 2021.09 - 2022.09 )
-* 멋쟁이 사자처럼 AI 스쿨 7기 수료 ( 2022.09 - 2023.01.13 )
